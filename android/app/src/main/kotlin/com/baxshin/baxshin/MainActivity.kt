@@ -1,0 +1,6 @@
+package com.baxshin.baxshin
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
